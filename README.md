@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [WanderScape: a social media for travellers](https://github.com/ParasAhujax/WanderScape)
 
-- 🌱 I’m currently learning **Next.js and Types**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **parasxahuja@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15AGAYfUcUSOia6oRi5F-k0XZOXSkxg7u/view?usp=sharing](https://drive.google.com/file/d/15AGAYfUcUSOia6oRi5F-k0XZOXSkxg7u/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/ParasAhujaResume](https://bit.ly/ParasAhujaResume)
 
 - ⚡ Fun fact **I am very good at bad jokes**
 
